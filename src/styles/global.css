@@ -10,16 +10,16 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 :root {
-    --text-main: #171717;
-    --bg-main: #f2f1ec;
-    --bg-muted: #eae9e1;
-    --border-main: #171717;
+    --text-main: #3c3a3a;
+    --bg-main: #f9f6f5;
+    --bg-muted: #f1eceb;
+    --border-main: #3c3a3a;
 }
 html.dark {
-    --text-main: #f2f1ec;
-    --bg-main: #171717;
-    --bg-muted: #242424;
-    --border-main: #f2f1ec;
+    --text-main: #ebe5e4;
+    --bg-main: #1a1818;
+    --bg-muted: #252222;
+    --border-main: #ebe5e4;
 }
 
 /* Cyan */
